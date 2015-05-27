@@ -1,0 +1,29 @@
+{
+  "name": "claster.test",
+  "version": "1.0.0",
+  "author": "Aleksandr Korolev <mail@alesan.ru>",
+  "description": "Claster Test",
+  "license": "MIT",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alekskorolev/clastertest"
+  },
+  "bugs": {
+    "url": "https://github.com/alekskorolev/clastertest/issues"
+  },
+  "homepage": "http://ct.alesan.ru",
+  "dependencies": {
+    "async": "^1.0.0",
+    "logger": "0.0.1",
+    "minimist": "^1.1.1",
+    "redis": "^0.12.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "assert": "latest",
+    "should": "latest",
+    "gulp": "latest",
+    "gulp-mocha": "latest"
+  }
+}
